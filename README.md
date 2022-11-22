@@ -5,6 +5,5 @@
   <li>HTML/CSS/Bootstrap/Tailwind/Ant</li>
   <li>JavaScript-ES6</li>
   <li>React & npm packages</li>
-  <li>Vue.js</li>
 </ul>
 </blockquote>
